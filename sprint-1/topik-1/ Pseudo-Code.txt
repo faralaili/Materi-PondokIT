@@ -1,0 +1,13 @@
+Pseudo-Code adalah kode algoritma yang di gunakan untuk mempermudah bahasa pemograman
+
+mendeklarasi Pseudo persegi panjang
+
+var panjang * lebar 
+luasnya : integer
+
+ dalam bentuk algoritma
+ nilai input panjang ;
+ nilai input lebar ;
+ masukan rumus luas : P * L ;
+ 
+ white (luas);
